@@ -23,8 +23,7 @@ Sadcloud Requirements<br>
 Terraform version 0.12 or greater<br>
 Terraform download: https://developer.hashicorp.com/terraform/install<br>
 validate: terraform -v<br>
-Sadcloud GitHub: https://github.com/nccgroup/sadcloud/tree/master/modules/aws
-
+Sadcloud GitHub: https://github.com/nccgroup/sadcloud/tree/master
 
 Prowler Requirements<br>
 Prowler GitHub: https://github.com/prowler-cloud/prowler/tree/master<br>
