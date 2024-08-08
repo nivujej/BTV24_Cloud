@@ -8,6 +8,7 @@ muteki GitHub > Security Training: https://github.com/muteki-apps/Security-Train
 
 AWS CLI Requirements:<br>
 AWS CLI download: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html<br>
+Configure CLI: https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sso.html<br>
 validate: aws --version
 
 Git Clone Requirements<br>
