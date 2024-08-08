@@ -9,7 +9,10 @@ muteki GitHub > Security Training: https://github.com/muteki-apps/Security-Train
 AWS CLI Requirements:<br>
 AWS CLI download: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html<br>
 Configure CLI: https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-sso.html<br>
-validate: aws --version
+validate: aws --version<br>
+For IAM Identity Center: aws configure sso<br>
+Set CLI Profile:  aws s3 ls --profile “profilename”<br>
+Confirm access: aws sts get-caller-identity
 
 Git Clone Requirements<br>
 Git download: https://git-scm.com/downloads<br>
